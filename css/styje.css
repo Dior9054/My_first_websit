@@ -1,0 +1,253 @@
+
+.другие_обзоры{
+    background-color:rgb(88, 87, 87);
+    margin-right: 1px;
+    font-family: "Manrope",sans-serif;
+}
+.wellerman{
+    margin-left: 20px;
+    position: relative;
+    cursor: pointer;
+}
+.wellerman h1{
+    margin: 0;
+    font-size: 15px;
+    color: #a1a1a1;
+    padding-top: 15px;
+}
+.wellerman img{
+    background-size: cover;
+    background-position: center;
+    width: 20%;
+    height: 15vh;
+}
+.wellerman h2{
+    position: absolute;
+    color: #e0dfdc;
+    font-size: 15px;
+    left: 80px;
+    top: 5px;
+}
+.wellerman h3{
+    position: absolute;
+    color: #a1a1a1;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    left: 60px;
+}
+.wellerman_first{
+    margin-left: 20px;
+    position: relative;
+    cursor: pointer;
+}
+.wellerman_first img{
+    background-size: cover;
+    background-position: center;
+    width: 20%;
+    height: 15vh;
+}
+.wellerman_first h1{
+    margin: 0;
+    font-size: 15px;
+    color: #a1a1a1;
+    padding-top: 15px;
+}
+.wellerman_first h2{
+    position: absolute;
+    color: #e0dfdc;
+    font-size: 15px;
+    left: 80px;
+    top:8px;
+}
+.wellerman_first h3{
+    position: absolute;
+    color: #a1a1a1;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    left: 60px;
+}
+.wellerman_secand{
+    margin-left: 20px;
+    position: relative;
+    cursor: pointer;
+}
+.wellerman_secand img{
+    background-size: cover;
+    background-position: center;
+    width: 20%;
+    height: 15vh;
+}
+.wellerman_secand h1{
+    margin: 0;
+    font-size: 15px;
+    color: #a1a1a1;
+    padding-top: 15px;
+}
+.wellerman_secand h2{
+    position: absolute;
+    color: #e0dfdc;
+    font-size: 15px;
+    left: 80px;
+    top:8px;
+}
+.wellerman_secand h3{
+    position: absolute;
+    color: #a1a1a1;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    left: 60px;
+}
+.wellerman_third{
+    margin-left: 20px;
+    position: relative;
+    cursor: pointer;
+}
+.wellerman_third img{
+    background-size: cover;
+    background-position: center;
+    width: 20%;
+    height: 15vh;
+}
+.wellerman_third h1{
+    margin: 0;
+    font-size: 15px;
+    color: #a1a1a1;
+    padding-top: 15px;
+}
+.wellerman_third h2{
+    position: absolute;
+    color: #e0dfdc;
+    font-size: 15px;
+    left: 80px;
+    top:8px;
+}
+.wellerman_third h3{
+    position: absolute;
+    color: #a1a1a1;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    left: 60px;
+}
+.wellerman_fourth{
+    margin-left: 20px;
+    position: relative;
+    cursor: pointer;
+}
+.wellerman_fourth img{
+    background-size: cover;
+    background-position: center;
+    width: 20%;
+    height: 15vh;
+}
+.wellerman_fourth h1{
+    margin: 0;
+    font-size: 15px;
+    color: #a1a1a1;
+    padding-top: 15px;
+}
+.wellerman_fourth h2{
+    position: absolute;
+    color: #e0dfdc;
+    font-size: 15px;
+    left: 80px;
+    top:8px;
+}
+.wellerman_fourth h3{
+    position: absolute;
+    color: #a1a1a1;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    left: 60px;
+}
+.wellerman_fifth{
+    margin-left: 20px;
+    position: relative;
+    cursor: pointer;
+}
+.wellerman_fifth img{
+    background-size: cover;
+    background-position: center;
+    width: 20%;
+    height: 15vh;
+}
+.wellerman_fifth h1{
+    margin: 0;
+    font-size: 15px;
+    color: #a1a1a1;
+    padding-top: 15px;
+}
+.wellerman_fifth h2{
+    position: absolute;
+    color: #e0dfdc;
+    font-size: 15px;
+    left: 80px;
+    top:8px;
+}
+.wellerman_fifth h3{
+    position: absolute;
+    color: #a1a1a1;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    left: 60px;
+}
+.wellerman_sixth{
+    margin-left: 20px;
+    position: relative;
+    cursor: pointer;
+}
+.wellerman_sixth img{
+    background-size: cover;
+    background-position: center;
+    width: 20%;
+    height: 15vh;
+}
+.wellerman_sixth h1{
+    margin: 0;
+    font-size: 15px;
+    color: #a1a1a1;
+    padding-top: 15px;
+}
+.wellerman_sixth h2{
+    position: absolute;
+    color: #e0dfdc;
+    font-size: 15px;
+    left: 80px;
+    top:8px;
+}
+.wellerman_sixth h3{
+    position: absolute;
+    color: #a1a1a1;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    left: 60px;
+}
+.hr{
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,255 @@
+
+.close_background{
+    margin-left: 87px;
+    margin-right: 6%;
+    margin-top: 14%;
+    margin-bottom: 5px;
+    position: relative;
+
+}
+.g button{
+    color: #c5bcbc;
+    padding: 10px;
+    margin-right: 1px;
+    background-color: #1b1b1b;
+    border-color: #b6b5b5;
+    border-width: 0.1px;
+    border-radius: 3px;
+}
+.g{
+    margin-left: 846px;
+    display: inline-flex;
+}
+.g button:hover{
+    background-color: #8b3b32;
+    transition: 0.4s;
+    cursor: pointer;
+}
+.school{
+    position: absolute;
+    right: 100%;
+    top: 100px;
+}
+.school li button{
+    background-color: #1b1b1b;
+    padding: 12px;
+    border: 0;
+    border-radius: 3px;
+    margin: 0;
+    cursor: pointer;
+}
+.h{
+    color: #b6b5b5;
+}
+.i{
+    color: #b6b5b5;
+}
+.school li button:hover{
+    background-color:#8b3b32;
+    transition: 0.4s;
+}
+.jj{
+    display: inline-flex;
+}
+.close{
+    background-color:rgb(88, 87, 87);
+    border-radius: 10px 0px 10px 10px ;
+    border-color:red;
+    border: 10px;   
+}
+.close img{
+    width: 155px;
+    height: 45vh;
+    border-radius: 10px;
+    border: solid rgba(0, 0, 0, 0.5);
+    padding: 0;
+    margin-left:30px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+    cursor: pointer;
+}
+.ty{
+    border: solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-family: "Manrope",sans-serif;
+    font-size: 15px;
+    margin: 50px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 242px;
+    margin-left: 30px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-top: 19px;
+}
+.tu{
+    border: solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-family: "Manrope",sans-serif;
+    font-size: 15px;
+    margin: 50px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 242px;
+    margin-left: 221px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.ti{
+    border: solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-family: "Manrope",sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 416px;
+    top: 279px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.to{
+    border: solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-family: "Manrope",sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 612px;
+    top: 279px;
+    padding-left: 39px;
+    padding-right: 36px;
+}
+.tp{
+    border: solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-family: "Manrope",sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 807px;
+    top: 279px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.te{
+    border: solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-family: "Manrope",sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 1001px;
+    top: 279px;
+    padding-left: 41px;
+    padding-right: 42px;
+}
+.tw{
+    position: absolute;
+    top: 65px;
+}
+.tw button{
+    background-color: #9AB96D;
+    color: white;
+    padding: 4px 6px 4px 6px;
+    border: 0;
+    border-radius: 0px 5px 5px 0px;
+    margin-left: 30px;
+}
+.tq{
+    position: absolute;
+    top: 65px;
+    left: 385px;
+}
+.tq button{
+    background-color: #9AB96D;
+    color: white;
+    padding: 4px 6px 4px 6px;
+    border: 0;
+    border-radius: 0px 5px 5px 0px;
+    margin-left: 30px;
+}
+.ta{
+    position: absolute;
+    top: 65px;
+    left: 580px;
+}
+.ta button{
+    background-color: #9AB96D;
+    color: white;
+    padding: 4px 6px 4px 6px;
+    border: 0;
+    border-radius: 0px 5px 5px 0px;
+    margin-left: 30px;
+}
+.ts{
+    position: absolute;
+    top: 65px;
+    left: 779px;
+}
+.ts button{
+    background-color: #9AB96D;
+    color: white;
+    padding: 4px 6px 4px 6px;
+    border: 0;
+    border-radius: 0px 5px 5px 0px;
+    margin-left: 30px;
+}
+.tm{
+    position: absolute;
+    top: 65px;
+    left: 974px;
+}
+.tm button{
+    background-color: #9AB96D;
+    color: white;
+    padding: 4px 6px 4px 6px;
+    border: 0;
+    border-radius: 0px 5px 5px 0px;
+    margin-left: 30px;
+}
+.close img:hover .ty{
+    margin-top: 500px;
+    margin-left: 30px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-top: 19px;
+
+}
+.ty{
+    border: solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-family: "Manrope",sans-serif;
+    font-size: 15px;
+    margin: 50px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 242px;
+    margin-left: 30px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-top: 19px;
+}
+.close img:hover{
+    background-color: aqua;
+}
+.close{
+    margin-bottom: 20px;
+}
